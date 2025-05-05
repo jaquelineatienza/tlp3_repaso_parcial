@@ -1,0 +1,51 @@
+Nombre,Edad,Email,Fecha_Registro,Ingresos,Genero,Comentario
+Juan Prez,29,juanperez@gmail,2021-03-15,"$3,000",M,"Cliente frecuente"
+Mara Lpez,NaN,m.lopez@outlook.com,15/04/2021,4000,F,"Cliente Frecuente"
+jose lopez,,joselopez@,2021/05/20,3500.00,M,
+Ana Gmez,31,ana_gomez@gmail.com,2021-06-01,NaN,f,
+Juan Prez,29,juanperez@gmail,2021-03-15,"$3,000",M,"Cliente frecuente"
+,45,,2021-07-12,5000.50,M,
+Lucas Torres,27,lucastorres@correo,2021-08-01,4800,MASCULINO,"Cliente VIP"
+Mara Lpez,30,m.lopez@outlook.com,2021-04-15,4000,F,
+Laura Fernndez,26,laura@correo.com,2021-09-01,"not available",F,"Cliente nuevo"
+Jos Lpez,30,joselopez@gmail.com,2021-10-10,3.600,M,
+Carlos Daz,NaN,carlos123@,2021/11/01,"$4000.00",M,"Cliente frecuente"
+Sofa Mndez,32,sofa@,01/12/2021,,FEMENINO,
+Luca Romero,29,lucia.romero@,2021-13-01,3000,m,
+Pedro Nez,40,pedro@correo.com,2021-05-40,NaN,M,
+Juan Prez,29,juanperez@gmail,2021-03-15,"3,000",M,"Cliente frecuente"
+Mara Lpez,,m.lopez@outlook.com,2021/04/15,4000,F,
+jose lopez,30,joselopez@gmail.com,20-05-2021,"not available",m,
+Ana Gmez,abc,ana_gomez@gmail.com,2021-06-01,4500,f,"Cliente Frecuente"
+Lucas Torres,27,,2021-08-01,4800,FEMENINO,
+Laura Fernndez,26,laura@correo.com,01/09/2021,"$3.800",f,
+Luca Romero,,lucia.romero@,2021-10-10,3600.00,,VIP
+Jos Lpez,30,joselopez@,2021/10/10,3600,M,
+Pedro Nez,38,pedro_nunez@gmail,2021-07-01,"not available",M,"Cliente problemtico"
+Carlos Daz,NaN,,2021-11-01,"",$4000.00,
+Sofa Mndez,NaN,,2021-12-01,,,
+Ana Gmez,30,ana_gomez@gmail.com,2021-06-01,"not available",f,"Cliente frecuente"
+Carlos Daz,22,carlos@correo,2021-10-05,3100,MASCULINO,"Cliente VIP"
+Lucas Torres,NaN,lucas@correo.com,10/08/2021,3900.00,m,
+Laura Fernndez,abc,laura@correo.com,2021-09-31,"3,100",F,
+Juan Prez,29,juanperez@gmail,2021-03-15,"$3000",M,"Reclamos frecuentes"
+Pedro Nez,40,pedro@correo,2021-05-20,3000,MASCULINO,"Cliente problemtico"
+Sofa Mndez,NaN,sofa@,2021-12-15,,f,
+Carlos Daz,22,carlos123@gmail.com,2021-11-01,"not available",,"Cliente nuevo"
+Luca Romero,29,,2021-11-01,3200,FEMENINO,"Cliente nuevo"
+Ana Gmez,31,ana_gomez@gmail.com,01-06-2021,NaN,,,"Cliente VIP"
+Lucas Torres,,lucastorres@,2021-08-01,4800,M,Reclamos
+Laura Fernndez,26,laura@correo.com,2021-09-01,"not available",FEMENINO,
+Jos Lpez,30,joselopez@gmail,2021-10-10,3600.00,MASCULINO,
+Juan Prez,NaN,juanperez@gmail,2021/03/15,NaN,M,
+Pedro Nez,39,,2021-07-01,5000,,,
+Mara Lpez,30,m.lopez@outlook.com,15-04-2021,4000,FEMENINO,"Cliente frecuente"
+jose lopez,NaN,joselopez@,2021/05/20,NaN,M,"Cliente nuevo"
+Carlos Daz,NaN,,2021-11-01,"$4.000",MASCULINO,
+Laura Fernndez,26,laura@correo.com,2021/09/01,3.800,,VIP
+Ana Gmez,31,ana_gomez@gmail.com,2021-06-01,"$3,500",F,"Cliente frecuente"
+Sofa Mndez,NaN,sofa@correo.com,2021-12-01,4500.00,f,
+Lucas Torres,27,lucastorres@correo,2021-08-01,"not available",M,"Cliente VIP"
+Jos Lpez,30,,2021-10-10,3600,M,
+Luca Romero,29,lucia.romero@correo.com,2021-10-10,3600,f,"Cliente nuevo"
+Pedro Nez,38,pedro@correo.com,2021-07-01,"not available",M,"Cliente VIP"
